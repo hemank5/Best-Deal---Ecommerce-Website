@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<SmartPhoneCatalog>
+    <smartphone id="iphone7plus">
+        <name>iPhone 7 Plus</name>
+        <price>799.99</price>
+        <image>iphone7-plus.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>     
+    </smartphone>
+    <smartphone id="iphone7">
+        <name>iPhone 7</name>
+        <price>699.99</price>
+        <image>iphone7-silver.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>   
+    </smartphone>
+
+    <smartphone id="galaxys8">
+        <name>Galaxy S8</name>
+        <price>849.99</price>
+        <image>Samsung-Galaxy-S8.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        
+    </smartphone>
+    <smartphone id="galaxys7">
+        <name>Galaxy S7</name>
+        <price>649.99</price>
+        <image>galaxy-s7.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </smartphone>
+    
+    <smartphone id="motorola">
+        <name>Droid Turbo 2</name>
+        <price>549.99</price>
+        <image>moto-droid-turbo2.jpg</image>
+        <manufacturer>Motorola</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartphone>
+</SmartPhoneCatalog>
+
+<TabletCatalog>
+    <tablet id="ipad">
+        <name>Apple Ipad Pro</name>
+        <price>189.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="ipad3">
+        <name>Apple Ipad 3</name>
+        <price>189.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Pixelc">
+        <name>Pixel C</name>
+        <price>499.99</price>
+        <image>pixel_c.png</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="nexus7">
+        <name>Nexus 7 2nd Gen</name>
+        <price>399.99</price>
+        <image>Google-Nexus-7-2-2.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Samsung2">
+        <name>Samsung Tab 2</name>
+        <price>150.99</price>
+        <image>s1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+</TabletCatalog>
+<LaptopsCatalog>
+<laptop id="l1">
+        <name>Macbook Pro</name>
+        <price>1399.99</price>
+        <image>mbp13-gray.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+</laptop>
+<laptop id="l2">
+        <name>Macbook Air</name>
+        <price>899.99</price>
+        <image>mbair.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+</laptop>
+<laptop id="l3">
+        <name>Asus EeeBook</name>
+        <price>450.00</price>
+        <image>asus_Eeebook.png</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="l4">
+        <name>Dell XPS</name>
+        <price>850.99</price>
+        <image>dell_xps.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+</LaptopsCatalog>
+
+<TelevisionCatalog>
+    <television id="samsungcurved">
+        <name>Samsung Curved</name>
+        <price>999.99</price>
+        <image>samsung-tv-uhd-ku6100-curved.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>     
+    </television>
+    <television id="samsungsmart">
+        <name>SamsungSmartTV</name>
+        <price>599.99</price>
+        <image>Samsung-TV-Apps.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>   
+    </television>
+
+    <television id="sonyultra">
+        <name>Sony 4k UltraHD</name>
+        <price>1249.99</price>
+        <image>sony-tv-4kultra.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        
+    </television>
+    <television id="sonysmart">
+        <name>Sony Smart TV</name>
+        <price>549.99</price>
+        <image>sony.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </television>
+    <television id="toshiba">
+        <name>Toshiba</name>
+        <price>349.99</price>
+        <image>toshiba-tv.jpg</image>
+        <manufacturer>Toshiba</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </television>
+</TelevisionCatalog>
+
+
+</ProductCatalog>
